@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Hosni</h1>
-<h3 align="center">I am a Ph.D. Researcher - Computer vision @ University of Oulu. Also I am a passionate data scientist and data science writer & instructor</h3>
+<h3 align="center">I am a Ph.D. Researcher - Computer vision @ University of Oulu. Also I am a passionate data scientist and data science writer @ 365 DataSceince & Medium  & data science instructor @ Phiscience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
 
