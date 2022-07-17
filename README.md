@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Hosni</h1>
 
-## I am a Ph.D. Researcher - Computer vision @ University of Oulu. Also I am a passionate data scientist and data science writer @ [365 DataScience](https://365datascience.com/blog/authors/youssef-hosni/) & [Medium](https://medium.com/@youssefraafat57) & data science instructor @ [PhiScience](https://www.phi.science/) ##
+## I am a Ph.D. Researcher - Computer vision @ University of Oulu. Also I am a passionate data scientist and data science writer @ [365 DataScience](https://365datascience.com/blog/authors/youssef-hosni/) & [Medium](https://medium.com/@youssefraafat57) & data science instructor @ [PhiScience](https://www.phi.science/products/data-science-machine-learning-specialization#:~:text=Meet%20your%20instructors) ##
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
 
