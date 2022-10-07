@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
 
-- 🔭 I’m currently working on **Fatigue classfication and level prediction**
-
 - 👨‍💻 All of my projects are available at [https://github.com/youssefHosni/Data-Science-Portofolio](https://github.com/youssefHosni/Data-Science-Portofolio)
 
 - 📝 I regularly write articles on [https://medium.com/@youssefraafat57](https://medium.com/@youssefraafat57)
