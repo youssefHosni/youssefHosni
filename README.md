@@ -14,7 +14,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/geekculture/8-websites-will-pay-50-to-1000-for-your-data-science-blog-f094d0616555?sk=df49715e8b772c1f4c3e24755499097e
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
