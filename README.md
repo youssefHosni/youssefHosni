@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Youssef.Hosni95@outlook.com**
 
-- Looking for data science mentoring, let's chat:https://calendly.com/youssef-rafaat95
+- Looking for data science mentoring, let's chat: https://calendly.com/youssef-rafaat95
 
 
 
