@@ -9,15 +9,14 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
 
-Connect with Me
+<h3 align="left">Connect with me:</h3>
 
-
-| MedIA  | Summary |
+| Media  | Summary |
 | ------------- | ------------- |
-| [Medium](https://medium.com/@youssefraafat57)  | My data science blog  |
-| [Mentoring]((https://calendly.com/youssef-rafaat95)  | Content Cell  |
-| [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | Content Cell  |
-| [Twitter](https://twitter.com/Youssef70125494)  | Content Cell  |
+| [Medium ](https://medium.com/@youssefraafat57)  | My data science blog where I write about   |
+| [Mentoring ](https://calendly.com/youssef-rafaat95)  |I offer data science career mentoring and CV & poroflio feedback |
+| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and useful machine learning tips|
+| [Twitter ](https://twitter.com/Youssef70125494)  | Content Cell  |
 
 
 
