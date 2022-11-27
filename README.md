@@ -21,10 +21,10 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | My data science blog where I write data science articles   |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) |I offer data science career mentoring and CV & poroflio feedback |
 | [Stable Diffusion](https://github.com/youssefHosni/Stable-Diffusion)  | I share data science interview questions and practical machine learning tips|
-| [Practical Machine Learning Guide](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
-| [Practical Machine Learning Guide](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
-
-
+| [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | I share data science interview questions and practical machine learning tips |
+| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| I share data science interview questions and practical machine learning tips  |
+| [Advanced Python for Data Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| I share data science interview questions and practical machine learning tips |
+| [Advanced Python for Data Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| I share data science interview questions and practical machine learning tips |
 
 
 
