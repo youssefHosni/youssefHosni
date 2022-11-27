@@ -18,8 +18,8 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Data Science Interview Questions & Answers ]([https://medium.com/@youssefraafat57](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers))  | My data science blog where I write data science articles   |
-| [Practical Machine Learning Tips ]([https://calendly.com/youssef-rafaat95](https://github.com/youssefHosni/Practical-Machine-Learning-Tips))  |I offer data science career mentoring and CV & poroflio feedback |
+| [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | My data science blog where I write data science articles   |
+| [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) |I offer data science career mentoring and CV & poroflio feedback |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
 | [Twitter ](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
 
