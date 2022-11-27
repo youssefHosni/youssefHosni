@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Youssef Hosni</h1> A Computer Vision Researcher & Data Scientist 
+<h1 align="left">Hi, I'm Youssef Hosni 👋</h1> 
+
+A Computer Vision Researcher & Data Scientist 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
