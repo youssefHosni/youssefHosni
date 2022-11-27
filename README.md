@@ -20,6 +20,7 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | ------------- | ------------- |
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | My data science blog where I write data science articles   |
 | [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |I offer data science career mentoring and CV & poroflio feedback |
+| [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) |I offer data science career mentoring and CV & poroflio feedback |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) |I offer data science career mentoring and CV & poroflio feedback |
 | [Stable Diffusion](https://github.com/youssefHosni/Stable-Diffusion)  | I share data science interview questions and practical machine learning tips|
 | [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | I share data science interview questions and practical machine learning tips |
