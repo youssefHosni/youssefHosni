@@ -9,19 +9,23 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/youssefHosni/Data-Science-Portofolio](https://github.com/youssefHosni/Data-Science-Portofolio)
+Connect with Me
 
-- 📝 I regularly write articles on [https://medium.com/@youssefraafat57](https://medium.com/@youssefraafat57)
 
-- 📫 How to reach me **Youssef.Hosni95@outlook.com**
-
-- Looking for data science mentoring, let's chat: https://calendly.com/youssef-rafaat95
-
+| MedIA  | Summary |
+| ------------- | ------------- |
+| [Medium](https://medium.com/@youssefraafat57)  | My data science blog  |
+| [Mentoring]((https://calendly.com/youssef-rafaat95)  | Content Cell  |
+| [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | Content Cell  |
+| [Twitter](https://twitter.com/Youssef70125494)  | Content Cell  |
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+ 
+ 
 <a href="https://medium.com/@youssefraafat57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@youssefraafat57" height="30" width="40" /></a>
 <a href="/https://medium.com/feed/@youssefraafat57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@youssefraafat57" height="30" width="40" /></a>
 </p>
