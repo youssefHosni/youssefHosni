@@ -24,7 +24,7 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
 | [Stable Diffusion](https://github.com/youssefHosni/Stable-Diffusion)  | I share data science interview questions and practical machine learning tips|
 | [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | I share data science interview questions and practical machine learning tips |
-| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| I share data science interview questions and practical machine learning tips  |
+| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that covers most of the computer vision tasks such as object detection, tracking and image classification and others  |
 | [Advanced Python for Data Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| I share data science interview questions and practical machine learning tips |
 |[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| I share data science interview questions and practical machine learning tips |
 
