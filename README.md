@@ -19,7 +19,7 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | Topic  | Summary |
 | ------------- | ------------- |
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | Data science interview questions & answers covers most of the expected questions |
-|[Data-Science-Interview-Preperation](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
+|[Data Science Interview Preperation](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
 | [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill based portoflio |
 | [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End to end data science projects for various data science case studies |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
