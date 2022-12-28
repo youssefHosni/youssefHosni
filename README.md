@@ -21,10 +21,11 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill based portoflio |
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | Data science interview questions & answers covers most of the expected questions |
 |[Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
+| [Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data sciene theoretical and practical skills.|
 | [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End to end data science projects for various data science case studies |
+| [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | Practicle guide for different machine learning and deep learning concepts and algorithms |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
 | [Stable Diffusion](https://github.com/youssefHosni/Stable-Diffusion)  |Stable diffusion code both using hugging face and implemented from scratch |
-| [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | Practicle guide for different machine learning and deep learning concepts and algorithms |
 | [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that covers most of the computer vision tasks such as object detection, tracking and image classification and others  |
 | [Efficient-Python-for-Data-Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| How to write efficient Python for data scientists  |
 |[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in python tutorials that covers most of the tasks in a time series projects |
