@@ -19,6 +19,7 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | Topic  | Summary |
 | ------------- | ------------- |
 | [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill based portoflio |
+| [Practical-Data-Science-Blog](https://github.com/youssefHosni/Practical-Data-Science-Blog)   |My data science blogs on Medium with friendly link so you can read them without restrictions |
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | Data science interview questions & answers covers most of the expected questions |
 |[Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
 | [Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data sciene theoretical and practical skills.|
