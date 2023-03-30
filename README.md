@@ -4,7 +4,7 @@ I am a computer vision researcher  & data scientist. My research focuses on deve
  
 I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
 
-My Projects:
+# My Projects: #
 ## [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) ##
 
 
