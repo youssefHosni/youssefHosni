@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Youssef Hosni 👋</h1> 
 
-I am a computer vision researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domain.
+I am a computer vision researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domains.
  
 I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
 
@@ -14,7 +14,8 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 | Media  | Summary |
 | ------------- | ------------- |
 |[Google Scholar](https://scholar.google.com/citations?hl=en&user=HDwCSLsAAAAJ&view_op=list_works&gmla=ABEO0YoNjlo3qozDriwXWgvx6K2V3vxxiNydOi12af3QGAUlEWqBN0BgcfvQPldb7S1ujIx-SKys0bbhaZQVmAtd) | My papers and research output |
-| [Newsletter ](https://youssefh.substack.com/)  | To Data & Beyond newsletter   |
+| [Newsletter ](https://youssefh.substack.com/)  | My data science & AI newsletter  |
+|[E-Books & Courses](https://youssefhosni.gumroad.com/)| My data science and AI e-books and courses |
 | [Medium ](https://medium.com/@youssefraafat57)  | My data science blog where I write data science articles   |
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
@@ -24,18 +25,18 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill based portoflio |
-| [Practical Data Science Blog](https://github.com/youssefHosni/Practical-Data-Science-Blog)   |My data science blogs on Medium with friendly link so you can read them without restrictions |
+| [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill-based portfolio |
+| [Practical Data Science Blog](https://github.com/youssefHosni/Practical-Data-Science-Blog)   |My data science blogs on Medium with friendly links so you can read them without restrictions |
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | Data science interview questions & answers covers most of the expected questions |
-|[Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
-| [Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data sciene theoretical and practical skills.|
-| [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End to end data science projects for various data science case studies |
+|[Data Science Interview Preparation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you prepare for your coming data science interviews|
+| [Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data science theoretical and practical skills.|
+| [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End-to-end data science projects for various data science case studies |
 | [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | Practicle guide for different machine learning and deep learning concepts and algorithms |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
 | [Stable Diffusion Crash Course](https://github.com/youssefHosni/Stable-Diffusion)  |Stable diffusion code both using hugging face and implemented from scratch |
-| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that covers most of the computer vision tasks such as object detection, tracking and image classification and others  |
+| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that cover most of the computer vision tasks such as object detection, tracking and image classification and others  |
 | [Efficient-Python-for-Data-Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| How to write efficient Python for data scientists  |
-|[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in python tutorials that covers most of the tasks in a time series projects |
+|[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in Python tutorials that covers most of the tasks in a time series project |
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
