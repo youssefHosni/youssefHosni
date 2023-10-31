@@ -16,7 +16,7 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 |[Google Scholar](https://scholar.google.com/citations?hl=en&user=HDwCSLsAAAAJ&view_op=list_works&gmla=ABEO0YoNjlo3qozDriwXWgvx6K2V3vxxiNydOi12af3QGAUlEWqBN0BgcfvQPldb7S1ujIx-SKys0bbhaZQVmAtd) | My papers and research output |
 | [Newsletter ](https://youssefh.substack.com/)  | My data science & AI newsletter  |
 |[E-Books & Courses](https://youssefhosni.gumroad.com/)| My data science and AI e-books and courses |
-| [Medium ](https://medium.com/@youssefraafat57)  | My data science blog where I write data science articles   |
+| [Medium ](https://medium.com/@yousefhosni)  | My data science blog where I write data science articles   |
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
 | [Twitter ](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
