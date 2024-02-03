@@ -1,8 +1,5 @@
 <h1 align="left">Hi, I'm Youssef Hosni 👋</h1> 
-
-I am a computer vision researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domains.
- 
-I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
+I am a senior Data Scientist and machine learning researcher. I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
 
 ### You can find my project and previous work here: ###
 #### [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) ##
