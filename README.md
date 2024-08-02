@@ -9,7 +9,7 @@ I am a senior Data Scientist and machine learning researcher. I am passionate ab
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
 
 
-### You can find my project and previous work here: ###
+## You can find my projects here: ##
 #### [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) ##
 
 
