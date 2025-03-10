@@ -24,7 +24,7 @@ I am a senior Data Scientist and machine learning researcher. I am passionate ab
 | [Medium ](https://medium.com/@yousefhosni)  | My data science blog where I write data science articles   |
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
-| [Twitter ](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
+| [Twitter ](https://x.com/YoussefHosni951)  |  I share data science interview questions and practical machine learning tips  |
 
 <h3 align="left"> Open Soruce & Projects:</h3>
 
