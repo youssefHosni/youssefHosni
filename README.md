@@ -1,5 +1,11 @@
 <h1 align="left">Hi, I'm Youssef Hosni 👋</h1> 
-I am a senior Data Scientist and machine learning researcher. I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
+Youssef Hosni is a data scientist and machine learning researcher who has worked in machine learning and AI for over half a decade. 
+
+In addition to being a researcher and data science practitioner, Youssef has a strong passion for education. He is known for leading a data science and AI blog, newsletter, and eBooks on data science and machine learning. 
+
+Youssef is a senior data scientist at Ment, focusing on building Generative AI features for Ment Products. He is also an AI applied researcher at Aalto University, working on AI agents and their applications in smart predictive maintenance. 
+
+Before that, he worked as a researcher, applying deep learning and computer vision techniques to medical images.
 
 ## You can follow me here ##
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
