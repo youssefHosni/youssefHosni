@@ -47,7 +47,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefHosni&show_icons=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=youssefHosni&theme=flat)
 
 
 
