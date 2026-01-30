@@ -47,10 +47,7 @@
 
 
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=youssefhosni&show_icons=true&hide_title=true"
-  alt="GitHub stats"
-/>
+<img  src="https://github-readme-stats.vercel.app/api?username=youssefhosni&show_icons=true&hide_title=true" alt="GitHub stats"/>
 
 
 
