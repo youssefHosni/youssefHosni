@@ -61,3 +61,4 @@ Computer Vision · Time Series · NLP · Linux · Git · Bash
 
 ![Profile views](https://komarev.com/ghpvc/?username=youssefHosni)
 ![Followers](https://img.shields.io/github/followers/youssefHosni)
+![Stars](https://img.shields.io/github/stars/youssefHosni)
