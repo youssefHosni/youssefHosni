@@ -47,7 +47,10 @@
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=youssefhosni&theme=flat&v=2" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=youssefhosni&show_icons=true&hide_title=true"
+  alt="GitHub stats"
+/>
 
 
 
