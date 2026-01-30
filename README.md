@@ -47,9 +47,9 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefHosni&show_icons=true&cache_seconds=86400)
-
-![GitHub streak](https://streak-stats.demolab.com?user=youssefHosni&cache_seconds=86400)
+![Followers](https://img.shields.io/github/followers/youssefHosni)
+![Stars](https://img.shields.io/github/stars/youssefHosni)
+![Repos](https://img.shields.io/badge/Public%20Repos-Visible-success)
 
 
 
