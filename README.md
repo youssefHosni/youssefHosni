@@ -47,12 +47,7 @@
 
 
 
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=youssefhosni&theme=flat&no-frame=true&margin-w=10"
-    alt="youssefhosni trophies"
-  />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=youssefhosni&theme=flat&v=2" />
 
 
 
