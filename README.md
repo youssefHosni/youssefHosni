@@ -47,7 +47,7 @@
 
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=youssefHosni&theme=flat)
+![Trophy](https://github-profile-trophy.vercel.app/?username=youssefHosni&theme=flat&no-frame=true)
 
 
 
