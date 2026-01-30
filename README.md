@@ -47,9 +47,9 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefHosni&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefHosni&show_icons=true&cache_seconds=86400)
 
-![GitHub streak](https://streak-stats.demolab.com?user=youssefHosni)
+![GitHub streak](https://streak-stats.demolab.com?user=youssefHosni&cache_seconds=86400)
 
 
 
