@@ -31,20 +31,31 @@
 | [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill-based portfolio |
 | [Practical Data Science Blog](https://github.com/youssefHosni/Practical-Data-Science-Blog)   |My data science blogs on Medium with friendly links so you can read them without restrictions |
 | [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | Data science interview questions & answers covers most of the expected questions |
-|[Data Science Interview Preparation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you prepare for your coming data science interviews|
-| [Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data science theoretical and practical skills.|
+|[Data Science Interview Preparation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  | Resource to help you prepare for your upcoming data science interviews|
+| [Data-Science-Educational-Resources](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data science theoretical and practical skills.|
 | [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End-to-end data science projects for various data science case studies |
-| [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | Practicle guide for different machine learning and deep learning concepts and algorithms |
+| [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | Practical guide for different machine learning and deep learning concepts and algorithms |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
-| [Stable Diffusion Crash Course](https://github.com/youssefHosni/Stable-Diffusion)  |Stable diffusion code both using hugging face and implemented from scratch |
-| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that cover most of the computer vision tasks such as object detection, tracking and image classification and others  |
+| [Stable Diffusion Crash Course](https://github.com/youssefHosni/Stable-Diffusion)  |Stable diffusion code, both using Hugging Face and implemented from scratch |
+| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that cover most of the computer vision tasks, such as object detection, tracking, and image classification, and others  |
 | [Efficient-Python-for-Data-Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| How to write efficient Python for data scientists  |
-|[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in Python tutorials that covers most of the tasks in a time series project |
+|[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in Python tutorials that cover most of the tasks in a time series project |
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
+
+
+
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=youssefhosni&theme=flat&no-frame=true&margin-w=10"
+    alt="youssefhosni trophies"
+  />
+</p>
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
